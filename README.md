@@ -24,13 +24,13 @@ Before you begin, ensure you have the following software and resources:
 1. **Clone the Repository:**
    :
      ```
-     git clone https://github.com/ViksyAsenov/notes-backend
+     git clone https://github.com/ViksyAsenov/thephonebook-backend
      ```
 
 2. **Navigate to the project directory:**
    :
      ```
-     cd notes-backend
+     cd thephonebook-backend
      ```
 
 3. **Install the required dependencies:**
