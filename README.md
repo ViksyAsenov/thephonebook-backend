@@ -68,5 +68,4 @@ The application handles errors and provides appropriate responses for various er
 
 - 400 Bad Request: Missing or invalid input data.
 - 404 Not Found: When an unknown endpoint is requested.
-- 400 Bad Request: Malformatted ID.
 - 500 Internal Server Error: For any unhandled errors.
